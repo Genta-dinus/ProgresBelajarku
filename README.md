@@ -1,4 +1,8 @@
-07 Febuari 2022
+# PengalamanBelajar
+
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+**07 Febuari 2022**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
@@ -6,7 +10,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-07 Febuari 2021
+**07Febuari 2021**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
